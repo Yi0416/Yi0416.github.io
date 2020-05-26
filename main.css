@@ -1,4 +1,6 @@
 a {
-    color: #0083e8;
+    color: #008080;
 }
-#p1 {height:150px; width:150px;}
+#p1 {height:150px; width:150px;position:relative;left:520px}
+ul.link{list-style-type: disc; font-style: italic; font-weight: bold}
+h1{font-size: 200%; text-align: center; outline:#808000 dotted thick; outline-style:dashed; }
