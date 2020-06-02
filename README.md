@@ -1,8 +1,8 @@
 # Yi0416.github.io
-A PERSONAL PORTFOLIO OF Yi0416.
+A personal protfolio of Yi0416.
 
 ## CONTENTS
-INDEX PAGE AND RESUME PAGE HAVE BEEN IMPLEMENTED. HOWEVER THE SHORT BIOGRAPHY I USE A EXAMPLE SHORT BIOGRAPHY.
+Index page and resume page have been implemented. The short biography is fictitious and need to be replaced.
 
 ## DURATION
-ABOUT 4 TO 5 HOURS.
+About 4 to 5 hours.
